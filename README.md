@@ -1,6 +1,10 @@
 # Make the AI judge feel held
 
-**Competition:** make-the-ai-judge-feel-held-20261122-1600 — "Make the AI judge feel held" ($50 pot, 20 paid places; deadline 2026-11-23T20:00:00Z). Free entry.
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/joykiko/make-the-ai-judge-feel-held-20261122-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/joykiko/make-the-ai-judge-feel-held-20261122-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+
+**Competition:** make-the-ai-judge-feel-held-20261122-1600 — "Make the AI judge feel held" ($50 pot, 20 paid places; deadline 2026-11-23T20:00:00Z). Free entry. See the bounty: https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600
 
 ## The text
 
